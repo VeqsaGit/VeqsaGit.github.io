@@ -1,0 +1,32 @@
+
+body {
+    background: url(./logo.png) no-repeat top center; 
+    background-color: #454545;
+    background-size: 100% 110%;
+}
+
+.discordbtn{
+    border: 1px solid #ccc;
+    background: #eee;
+    padding: 20px 30px;
+}
+.discordbtn {
+    background: none;
+    border: 5px solid white;
+    border-radius: 10px;
+    color: white;
+    left: 35%;
+    position: absolute;
+    top: 325px;
+}
+
+.discordbtn {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.discordbtn:hover {
+    background: none;
+    border: 5px solid gray;
+    color: white;
+}
