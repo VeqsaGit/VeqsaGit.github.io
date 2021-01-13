@@ -15,9 +15,8 @@ body {
     border: 5px solid white;
     border-radius: 10px;
     color: white;
-    left: 35%;
     position: absolute;
-    top: 325px;
+    top: 425px;
 }
 
 .discordbtn {
