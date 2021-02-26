@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: gold !important;
+  }
+
+
+  
+.header {
+    padding: 20px;
+    text-align: center;
+    background: white;
+    color: black;
+    font-size: 30px;
+  }
+
+.header .profile-image {
+    margin-right: 30px;
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+  }
